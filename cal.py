@@ -1,2 +1,2 @@
-def add:
-    2+5
+def add():
+    return 2-1
